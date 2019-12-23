@@ -1,0 +1,54 @@
+﻿  Element.cpp
+  Simulator.cpp
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(10,20): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(12,20): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(18,20): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(20,20): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(65,21): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(67,22): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(79,20): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(82,21): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(85,22): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(95,20): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(97,20): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(112,19): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(129,22): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(133,19): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(152,20): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(153,21): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(174,29): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(201,30): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(204,30): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(209,9): warning C4018:  '>=': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(219,30): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(233,12): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(238,31): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(264,9): warning C4018:  '>=': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(274,31): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(277,31): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(282,10): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(284,32): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(286,11): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(289,28): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(296,9): warning C4018:  '>=': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(307,31): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(309,31): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(314,10): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(316,32): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(318,11): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(321,27): warning C4244:  'argument': conversion from 'double' to 'const int', possible loss of data
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(181,6): warning C4101:  'k': unreferenced local variable
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(342,28): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(368,9): warning C4018:  '>=': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(375,29): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(391,9): warning C4018:  '>=': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(393,29): warning C4018:  '<': signed/unsigned mismatch
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(395,9): warning C4018:  '>=': signed/unsigned mismatch
+  Time.cpp
+  Tree.cpp
+  TreeNode.cpp
+  Writer.cpp
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Simulator.cpp(398,30): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+D:\druga godina ETF\oop\BibliotekaSimulator\BibliotekaSimulator\Writer.cpp(12,20): warning C4018:  '<': signed/unsigned mismatch
+  BibliotekaSimulator.vcxproj -> D:\druga godina ETF\oop\BibliotekaSimulator\Debug\BibliotekaSimulator.lib
